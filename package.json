@@ -19,6 +19,7 @@
   ],
   "dependencies": {
     "@babel/core": "^7.4.3",
+    "@d-fischer/passport-twitch": "^1.0.5",
     "@polymer/app-layout": "^3.0.0",
     "@polymer/app-route": "^3.0.0",
     "@polymer/iron-collapse": "^3.0.0",
@@ -92,7 +93,6 @@
     "passport": "^0.4.0",
     "passport-local": "^1.0.0",
     "passport-steam": "^1.0.10",
-    "passport-twitch-helix": "^1.1.0",
     "raven": "^2.6.4",
     "raven-js": "^3.27.2",
     "semver": "^6.0.0",
